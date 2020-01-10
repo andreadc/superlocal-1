@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Ferme3D",
+        "description": "3D printing",
+        "popup-shorttext": "handle and side knobs",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7795293,
+          43.7961158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Gaines Tolerie Arlesienne",
+        "description": "ventilation systems",
+        "popup-shorttext": "propeller, assembly, finishing",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.632628,
+          43.7062443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Atelier LUMA",
+        "description": "cultural centre",
+        "popup-shorttext": "Algae filament producer",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6303,
+          43.6768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.631080627441406,
+            43.67730794174066
+          ],
+          [
+            4.632453918457031,
+            43.70660077729878
+          ],
+          [
+            4.779396057128905,
+            43.79612814894592
+          ]
+        ]
+      }
+    }
+  ]
+}
